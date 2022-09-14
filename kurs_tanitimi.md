@@ -2,7 +2,7 @@
 
 + Kurs 13.12.2022 tarihinde başlayacaktır.
 
-+ Dersler Salı, Perşembe günleri, 19:30-22:30 saatleri arasında (3 saat) gerçekleştirilecektir.
++ Dersler Salı, Perşembe günleri, 19:30-22:30 saatleri arasında (3' saat) gerçekleştirilecektir.
 
 + Kursta __UML__ modelleme dili, ayrıca __GoF__ kalıpları ve mimari kalıplar (paternler) C#, Java, C++ dilleriyle yapılacak örneklerle ele alınacaktır. Kursta terminal uygulamalarının yanı sıra Android, WPF, STL gibi frameworkler ile de örnek uygulamalar yapılacaktır. 
 
