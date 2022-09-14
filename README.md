@@ -9,7 +9,7 @@
 + Kursun toplam ücreti 5.800 TL KDV dahil 'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) 5.300 TL KDV dahil'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Tasarim-Kaliplari-ve-UML-Kursu-21-Eylul-2021)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-Tasarim-Kaliplari-ve-UML-Kursu-21-Eylul-2021/blob/main/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Tasarim-Kaliplari-ve-UML-Kursu-21-Eylul-2021/blob/main/sss.md)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Tasarim-Kaliplari-ve-UML-Kursu-13-Aralik-2022/blob/main/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-Tasarim-Kaliplari-ve-UML-Kursu-13-Aralik-2022/blob/main/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Tasarim-Kaliplari-ve-UML-Kursu-13-Aralik-2022/blob/main/sss.md)
 + [Kursa Kayıt](https://us06web.zoom.us/meeting/register/tZwkde6sqTMsGN396Quux8FdYX5WGc_cGlRI )
