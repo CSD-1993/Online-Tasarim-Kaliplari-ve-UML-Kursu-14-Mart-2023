@@ -2,7 +2,7 @@
 
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
-+ Kurs __13 Aralık 2022 Salı__ günü başlayacaktır.
++ Kurs __24 Ocak 2023 Salı__ günü başlayacaktır.
 + Kurs eğitmeni __Aykut TAŞDELEN__'dir.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __120__ saattir. Dersler __Salı- Perşembe__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
