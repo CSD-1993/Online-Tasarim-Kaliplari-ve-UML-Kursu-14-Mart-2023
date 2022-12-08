@@ -1,4 +1,4 @@
-# Online-Tasarim-Kaliplari-ve-UML-Kursu-13-Aralik-2022
+# Online-Tasarim-Kaliplari-ve-UML-Kursu-24-Ocak-2023
 
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
