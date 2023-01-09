@@ -6,8 +6,7 @@
 
 + Kursta __UML__ modelleme dili, ayrıca __GoF__ kalıpları ve mimari kalıplar (paternler) C#, Java, C++ dilleriyle yapılacak örneklerle ele alınacaktır. Kursta terminal uygulamalarının yanı sıra Android, WPF, STL gibi frameworkler ile de örnek uygulamalar yapılacaktır. 
 
-+ Kursun toplam ücreti 5.800 TL KDV dahil 'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) 5.300 TL KDV dahil'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
-
++ Kursumuzun toplam ücreti KDV dahil __5.600__ TL’dir(Peşin ödemede __5.050__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __5.100__ TL’dir (peşin ödemede __4.600__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 ## Ön Koşul
 Bu programa katılabilmek için daha önce C#, C++, Java, Kotlin, Swift gibi nesne yönelimli programlama dillerinden herhangi birisiyle tanışmış olmanız gerekmektedir ve/veya derneğimizde düzenlenmekte olan ilgili kursları tamamlamış olmalısınız.
 
