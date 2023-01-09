@@ -87,7 +87,6 @@ Eğitim, danışmanlık ve/veya proje geliştirdiği kurumlar arasında aşağı
 __UML ve Tasarım Kalıpları__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-+ Kursun toplam ücreti 5.600 TL KDV dahil 'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) 5.100 TL KDV dahil'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
-
++ Kursumuzun toplam ücreti KDV dahil __5.600__ TL’dir(Peşin ödemede __5.050__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __5.100__ TL’dir (peşin ödemede __4.600__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 ## Eğitim Programına Kayıt
 __[Katılım için önce ön kayıt yaptırmalısınız](https://us06web.zoom.us/meeting/register/tZwkde6sqTMsGN396Quux8FdYX5WGc_cGlRI  )__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
