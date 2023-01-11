@@ -1,4 +1,4 @@
-# Online-Tasarim-Kaliplari-ve-UML-Kursu-24-Ocak-2023
+# Online Tasarım Kalıpları ve UML Kursu - 24 Ocak 2023
 
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
@@ -11,4 +11,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Tasarim-Kaliplari-ve-UML-Kursu-13-Aralik-2022/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Tasarim-Kaliplari-ve-UML-Kursu-13-Aralik-2022/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Tasarim-Kaliplari-ve-UML-Kursu-13-Aralik-2022/blob/main/sss.md)
-+ [Kursa Kayıt](https://us06web.zoom.us/meeting/register/tZwkde6sqTMsGN396Quux8FdYX5WGc_cGlRI )
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/tZwkde6sqTMsGN396Quux8FdYX5WGc_cGlRI )
