@@ -1,8 +1,8 @@
-# Online Tasarım Kalıpları ve UML Kursu - 24 Ocak 2023
+# Online Tasarım Kalıpları ve UML Kursu - 14 Mart 2023
 
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
-+ Kurs __24 Ocak 2023 Salı__ günü başlayacaktır.
++ Kurs __14 Mart 2023 Salı__ günü başlayacaktır.
 + Kurs eğitmeni __Aykut TAŞDELEN__'dir.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __120__ saattir. Dersler __Salı- Perşembe__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
