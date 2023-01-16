@@ -1,6 +1,6 @@
 + Bu kurs [__C ve Sistem Programcıları Derneği__](www.csystem.org) tarafından düzenlenmektedir. 
 
-+ Kurs 24.01.2023 tarihinde başlayacaktır.
++ Kurs 14.02.2023 tarihinde başlayacaktır.
 
 + Dersler Salı, Perşembe günleri, 19:30-22:30 saatleri arasında (3'er saat) gerçekleştirilecektir.
 
